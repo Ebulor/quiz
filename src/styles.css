@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.question {
+  border-top: 2px solid #ffa07a;
+  border-bottom: 2px solid #ffa07a;
+  padding: 30px;
+}
+.answer {
+  margin: 5px auto;
+  border: 2px solid #ccc;
+  border-radius: 20px;
+  padding: 5px 50px;
+  cursor: pointer;
+}
+.selectedAnswer {
+  border: 2px solid orange;
+}
+select {
+  width: 300px;
+}
